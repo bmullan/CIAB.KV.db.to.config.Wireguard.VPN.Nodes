@@ -7,6 +7,6 @@ This Bash script creates a Key/Value db of generated Wireguard VPN Node configur
 using the Master VxLAN/WIreguard node configuration database   
 where:   
    
-> **KEY = the A VPN *"Node Name"* in the format of "nodeXXX"**
+> **KEY = the A VPN *"Node Name"* in the format of "nodeXXX"**   
 > **Value = the Wireguard Node configuration for "nodeXXX"**
 
