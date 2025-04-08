@@ -1,4 +1,4 @@
-# CIAB.KV.db.to.config.Wireguard.VPN.Nodes   
+# CIAB Key/value (KV).db to config.Wireguard.VPN.Nodes   
 Pre-req:   
 - requires build/installation of VxWireguard-Generator tool ***vwgen***   
 - execution of vmgen to create a Master VxLAN/Wireguard node configuration database   
